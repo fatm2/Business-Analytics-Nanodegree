@@ -1,3 +1,3 @@
 # Business Analytics Nanodegree
 ![175003761-99ee51cf-9900-45de-af49-9465279eaa39](https://github.com/fatm2/Business-Analytics-Nanodegree/assets/109034314/0f572b90-eec5-411f-a48c-98261413397d)
-
+### This repository contains my projects for [Udacity's Business Analytics](https://www.udacity.com/course/business-analytics-nanodegree--nd098) Nanodegree Program. This Udacity program aims to develop foundational data skills that apply across functions and industries. To Analyze data using Excel, query a database using SQL and build interactive dashboards and visualizations in Tableau. The main objectives for this nanodegree are to gain foundational data skills that are applicable to any industry. Collect and analyze data, model business scenarios, and communicate your findings with SQL, Excel, and Tableau.
