@@ -1,3 +1,16 @@
 # Business Analytics Nanodegree
-![175003761-99ee51cf-9900-45de-af49-9465279eaa39](https://github.com/fatm2/Business-Analytics-Nanodegree/assets/109034314/0f572b90-eec5-411f-a48c-98261413397d)
-### This repository contains my projects for [Udacity's Business Analytics](https://www.udacity.com/course/business-analytics-nanodegree--nd098) Nanodegree Program. This Udacity program aims to develop foundational data skills that apply across functions and industries. To Analyze data using Excel, query a database using SQL and build interactive dashboards and visualizations in Tableau. The main objectives for this nanodegree are to gain foundational data skills that are applicable to any industry. Collect and analyze data, model business scenarios, and communicate your findings with SQL, Excel, and Tableau.
+
+![image](https://user-images.githubusercontent.com/86031983/175003761-99ee51cf-9900-45de-af49-9465279eaa39.png)
+
+This repository contains my projects for [Udacity's Business Analytics](https://www.udacity.com/course/business-analytics-nanodegree--nd098) Nanodegree Program. This Udacity program aims to develop foundational data skills that apply across functions and industries. To Analyze data using `Excel`, query a database using `SQL` and build interactive dashboards and visualizations in `Tableau`. The main objectives for this nanodegree are to gain foundational data skills that are applicable to any industry. Collect and analyze data, model business scenarios, and communicate your findings with SQL, Excel, and Tableau. 
+
+
+## Part 1: Introduction to Data Analysis
+
+
+> In this project, I explored an interactive data dashboard about Malaria in Africa to uncover insights. Then I wrote a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
+
+
+
+- [Link to Project](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%201-Interpret%20a%20Data%20Visualization)
+- [Data Used](https://public.tableau.com/app/profile/matt.chambers/viz/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
