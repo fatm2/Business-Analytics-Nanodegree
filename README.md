@@ -20,3 +20,14 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 - [Link to Project](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%202-%20Analyze%20NYSE%20Data)
 - [Dataset Used](https://github.com/fatm2/Business-Analytics-Nanodegree/blob/main/Project%202-%20Analyze%20NYSE%20Data/Dataset%20(NYSE%20S%26P%20500).xlsx)
+
+
+  ## Part 3: SQL for Data Analysis
+
+
+> In this project, I queried a digital music store database which holds information regarding the store’s media, employees, and customers. I used the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
+
+- [Link to Project](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%203-%20Query%20a%20Digital%20Music%20Store%20Database)
+- [Dataset Used](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%203-%20Query%20a%20Digital%20Music%20Store%20Database/chinook-db/chinook_db)
+
+
