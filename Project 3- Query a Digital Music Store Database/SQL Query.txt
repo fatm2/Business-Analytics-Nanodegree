@@ -1,0 +1,39 @@
+/* Query for first insight */
+
+SELECT Al.title, SUM(IL.unitprice * IL.quantity) AS Total_Invoice
+FROM album Al
+JOIN track T
+ON Al.AlbumId = T.AlbumId
+JOIN invoiceLine IL
+ON T.TrackId = IL.TrackId
+
+GROUP BY  Al.title
+ORDER BY 2 DESC
+LIMIT 5;
+
+
+/*Query for second insight */
+
+SELECT 	MediaType.Name , count (Track.MediaTypeId) as total
+FROM Track 
+JOIN MediaType on Track.MediaTypeId = MediaType.MediaTypeId
+
+GROUP by MediaType.Name ORDER by total DESC LIMIT 5;
+
+/*Query for third insight */
+
+SELECT (Employee.FirstName || " "|| Employee.LastName) as EmployeeName , 
+count (Customer.CustomerId) as "Number of Customer"
+FROM Employee 
+JOIN Customer on Employee.EmployeeId=Customer.SupportRepId
+Group by EmployeeName
+
+/*Query for forth insight */
+
+SELECT T.name, count(PL.trackid) AS number_of_playlists
+FROM Track T
+JOIN playlisttrack PL
+ON T.trackid = PL.trackid
+GROUP BY T.name
+ORDER BY 2 DESC
+LIMIT 3;
