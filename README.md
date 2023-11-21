@@ -49,8 +49,6 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 ---
 ### [Certificate of Completion](https://confirm.udacity.com/XCKD2HCD)
 
-<img width="685" alt=["Certificate of Completion"] src="![]">
-
 
 ![Certificate of Completion](https://github.com/fatm2/Business-Analytics-Nanodegree/assets/109034314/12e26331-0238-45b4-be06-2c077e2d17ed)
 
