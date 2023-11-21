@@ -34,7 +34,7 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 ## Part 4: Data Visualization
 
-> In this project, I built interactive dashboards with Tableau and use them to discover and communicate insights from data. I used a dataset of Youtube in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
+> In this project, I built interactive dashboards with Tableau and use them to discover and communicate insights from data. I used a dataset of Youtube to visualize the highest views, likes for videos, and more.
 
 - [Link to Project](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%204-Build%20Data%20Dashboards)
 - [Dataset Used](https://github.com/fatm2/Business-Analytics-Nanodegree/blob/main/Project%204-Build%20Data%20Dashboards/youtubedata.zip)
