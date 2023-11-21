@@ -31,3 +31,28 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 - [Dataset Used](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%203-%20Query%20a%20Digital%20Music%20Store%20Database/chinook-db/chinook_db)
 
 
+
+## Part 4: Data Visualization
+
+> In this project, I built interactive dashboards with Tableau and use them to discover and communicate insights from data. I used a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
+
+- [Link to Project](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%204-Build%20Data%20Dashboards)
+- [Dataset Used](https://github.com/fatm2/Business-Analytics-Nanodegree/blob/main/Project%204-Build%20Data%20Dashboards/youtubedata.zip)
+
+---
+## Tools Used
+
+- Database Querying using `SQL` 
+- Data Analysis using `Excel` 
+- Data Visualization using `Tableau`
+
+---
+### [Certificate of Completion](https://confirm.udacity.com/XCKD2HCD)
+
+<img width="685" alt="Certificate of Completion" src="![Certificate of Completion](https://github.com/fatm2/Business-Analytics-Nanodegree/assets/109034314/29765fbf-2cca-4740-abd8-ac2cb03fed8f)
+">
+
+
+
+
+
