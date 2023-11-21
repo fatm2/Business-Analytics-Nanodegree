@@ -8,7 +8,7 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 ## Part 1: Introduction to Data Analysis
 
 
-> In this project, I explored an interactive data dashboard about Malaria in Africa to uncover insights. Then I wrote a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
+> In this project, I explored an interactive data dashboard about LinkedIn Top Skills 2016 to uncover insights. Then I wrote a short report explaining each insight, and how I found the information to reach my conclusion from the dashboard.
 
 
 
@@ -34,7 +34,7 @@ This repository contains my projects for [Udacity's Business Analytics](https://
 
 ## Part 4: Data Visualization
 
-> In this project, I built interactive dashboards with Tableau and use them to discover and communicate insights from data. I used a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
+> In this project, I built interactive dashboards with Tableau and use them to discover and communicate insights from data. I used a dataset of Youtube in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
 - [Link to Project](https://github.com/fatm2/Business-Analytics-Nanodegree/tree/main/Project%204-Build%20Data%20Dashboards)
 - [Dataset Used](https://github.com/fatm2/Business-Analytics-Nanodegree/blob/main/Project%204-Build%20Data%20Dashboards/youtubedata.zip)
